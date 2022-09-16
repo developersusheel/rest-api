@@ -1,7 +1,6 @@
 # Rest API with Node.js, Mongoose & TypeScript
 Rest API to use with any project using web token authentication
 
------
 
 ## Concepts
 - REST API principals
@@ -10,7 +9,6 @@ Rest API to use with any project using web token authentication
 - JWT & refresh tokens
 - Request validation
 
------
 
 ## Technologies
 - Node.js
@@ -19,7 +17,6 @@ Rest API to use with any project using web token authentication
 - Express.js & Express.js middleware
 - Zod validation
 
------
 
 ## What's included
 - Testing the API with Jest
@@ -28,7 +25,6 @@ Rest API to use with any project using web token authentication
 - Deploy the API with Caddy & Docker
 - Add Google OAuth
 
------
 
 ## Deployment
 - Docker (image)
